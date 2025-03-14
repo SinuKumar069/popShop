@@ -68,7 +68,7 @@ function Home() {
             </a>
             <Link
               to="/home/shop"
-              className="btn w-1/3 bg-mygreen hover:bg-myyellow text-white"
+              className="btn w-1/3 bg-mygreen hover:bg-myyellow"
             >
               Explore
             </Link>
